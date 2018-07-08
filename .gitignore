@@ -1,3 +1,8 @@
 */.ipynb_checkpoints
 WorldBank/*.csv
 ATP/tennis_atp
+WorldBankStatistics/addition_deletion_list.csv
+WorldBankStatistics/difference_list.csv
+WorldBankStatistics/max_nodes_list.csv
+WorldBankStatistics/n_revision_list.csv
+WorldBankStatistics/variance_list.csv
